@@ -2,7 +2,7 @@
  * Filename: suicide.c
  * Description: 
  * Author: harisankarh
- * Email:  sjbalajimdu@gmail.com
+ * Email:  harisankarh@gmail.com
  * Organization:  IIT Madras
  * Created: Fri Aug 24 22:18:34 2012 (+0530)
  * Last-Updated: Fri Aug 24 23:08:38 2012 (+0530)
@@ -36,8 +36,6 @@ int main(int argc, char **argv)
   state = NORMAL;
   while(1)
     {
-      //      printf("\nstate = %d",state);
-      //      fflush(stdout);
       switch(state)
 	{
 	case NORMAL:
