@@ -7,5 +7,5 @@
 Suicidal servers is a daemon which runs in servers which safely powers off them during cooling system power outages.
 
 
-Please go through the [project wiki](http://example.com) for details.
+Please go through the [project wiki](https://github.com/harisankarh/suicidal-servers/wiki/Suicidal-servers) for details.
 
